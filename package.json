@@ -1,0 +1,15 @@
+{
+  "name": "st_hw4",
+  "version": "1.0.0",
+  "description": "automation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "author": "Sevada",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.8.1"
+  }
+}
